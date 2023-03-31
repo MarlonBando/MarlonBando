@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Bando</h1>
-<h3 align="center">I'm a passionate software engineering that love motorsport.</h3>
+### Hi there 👋, my name is Michele Bandini
+#### I'm a passionate software engineering that love motorsport.
 
-- 🔭 I’m currently working at [Area Group]([http://www.uniprrt.it/en/home/](https://areaprofessional.com/)
-- 📫 How to reach me **michele.bandini2@studenti.unipr.it**
+- 🔭 I’m currently working on Area Group Manufacturing Execution System 
+- 📫 How to reach me: michele.bandini2000@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
