@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bando</h1>
 <h3 align="center">I'm a passionate software engineering that love motorsport.</h3>
 
-- 🔭 I’m currently working on [Formula student electric car](http://www.uniprrt.it/en/home/)
-
+- 🔭 I’m currently working at [Area Group]([http://www.uniprrt.it/en/home/](https://areaprofessional.com/)
 - 📫 How to reach me **michele.bandini2@studenti.unipr.it**
 
 <h3 align="left">Connect with me:</h3>
