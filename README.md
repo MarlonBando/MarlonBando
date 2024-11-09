@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Michele Bandini
 #### I'm a passionate software engineering that love motorsport.
 
-- 🔭 I’m currently working on Area Group Manufacturing Execution System 
+- 🔭 I’m currently working in WSAudiology
+- 📚 I am currently pursuing an MSc in Computer Science and Engineering at DTU
 - 📫 How to reach me: michele.bandini2000@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
